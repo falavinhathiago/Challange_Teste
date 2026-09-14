@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Domain/">
+    <Project Path="Domain.Challenge/Domain.Challenge.csproj" Id="2cde7dc3-e596-472b-985e-191495db6b54" />
+  </Folder>
+  <Folder Name="/Infra/">
+    <Project Path="Infra.Challenge/Infra.Challenge.csproj" />
+  </Folder>
+  <Folder Name="/Services/">
+    <Project Path="Application.Service.Challenge/Application.Service.Challenge.csproj" Id="c94baa4d-860e-41d9-9757-f333e01959fc" />
+  </Folder>
+  <Folder Name="/Web/">
+    <Project Path="Web.Challange/Web.Challange.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,6 @@
+@Web.Challange_HostAddress = http://localhost:5137
+
+GET {{Web.Challange_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
