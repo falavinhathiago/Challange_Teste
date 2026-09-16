@@ -16,9 +16,8 @@ namespace Infra.Challenge.Data
 
         // DbSet para a entidade
         public DbSet<SolicitacaoModels> Solicitacoes { get; set; }
-        public DbSet<Usuario> Usuarios { get; set; }
-        public DbSet<Permissao> Permissoes { get; set; }
-
+       
+       
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             // Configuração da chave primária
